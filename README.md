@@ -1,2 +1,4 @@
-# PHP-File-Upload-Example
-An example that demonstrates the basics of file upload in PHP.
+# Contoh-File-PHP-Mengunggah-Berkas
+Contoh yang menunjukkan dasar-dasar upload file dalam PHP.
+
+Baca Tutorial Lengkapnya di blog Mata Panda Crew
